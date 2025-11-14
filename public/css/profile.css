@@ -1,0 +1,20 @@
+body { 
+  margin: 0; 
+  font-family: Arial, Helvetica, sans-serif; 
+  background-color: #d2dbff; 
+  color: #333; 
+} 
+
+header { 
+  background-color: #005f99; 
+  color: white; 
+  text-align: center; 
+  padding: 20px; 
+} 
+
+.about{
+    font-size: 1.25em;
+    color: darkblue;
+    padding: 20px;
+    background-color: rgb(109, 165, 243);
+}
